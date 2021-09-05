@@ -1,5 +1,7 @@
 My python projects are published on Kaggle:
 
+Optuna Optimization for XGBoost: https://www.kaggle.com/charliezimmerman/xgboost-optuna-optimization-and-inference
+
 Train Roberta Base Model - https://www.kaggle.com/charliezimmerman/clrp-train-robertabase-maskedlm-model
 
 Train Roberta Large Model https://www.kaggle.com/charliezimmerman/clrp-train-robertalarge-masked-lm-model/
